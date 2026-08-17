@@ -201,9 +201,9 @@ Focuses on customer return behavior, return trends, and return reasons.
 - Customer Changed Mind was the dominant return reason.
 - Return rates were relatively consistent across customer segments.
 
-## Data-Driven Recommendations
+## Data Driven Recommendations
 
-1. **Prioritize high-performing products**
+1. **Prioritize high performing products**
 
    Maintain product availability and promotional visibility for products that consistently generate high revenue and profit, particularly ABC's Ground Beef.
 
@@ -211,9 +211,9 @@ Focuses on customer return behavior, return trends, and return reasons.
 
    Evaluate discount levels based on their impact on profit margin rather than focusing only on sales volume. High discounts should be applied selectively to avoid unnecessary margin erosion.
 
-3. **Investigate high-return categories**
+3. **Investigate high return categories**
 
-   Analyze products within high-return categories such as Beverages to identify recurring product, packaging, quality, or customer-expectation issues.
+   Analyze products within high return categories such as Beverages to identify recurring product, packaging, quality, or customer expectation issues.
 
 4. **Reduce preventable returns**
 
@@ -221,11 +221,11 @@ Focuses on customer return behavior, return trends, and return reasons.
 
 5. **Investigate operational return issues**
 
-   Return reasons such as Wrong Item Sent indicate potential fulfillment or warehouse issues. Order-picking and fulfillment processes should be reviewed to reduce preventable returns.
+   Return reasons such as Wrong Item Sent indicate potential fulfillment or warehouse issues. Order picking and fulfillment processes should be reviewed to reduce preventable returns.
 
 6. **Monitor regional performance**
 
-   The strong revenue contribution from Marmara indicates an opportunity to investigate the factors behind its performance and identify whether similar strategies can be applied to lower-performing regions.
+   The strong revenue contribution from Marmara indicates an opportunity to investigate the factors behind its performance and identify whether similar strategies can be applied to lower performing regions.
 
 7. **Evaluate profitability alongside revenue**
 
